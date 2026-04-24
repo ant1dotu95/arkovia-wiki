@@ -6,11 +6,11 @@ Lista și detaliile vehiculelor disponibile pe server.
 ### Pfister Neon
 
 ::: details Preview
-![Pfister Neon](/vehicles/neon.webp)
+![Pfister Neon](./public/vehicles/vehicles/neon.webp)
 :::
 
 ### Albany Emperor
 
 ::: details Preview
-![Albany Emperor](/vehicles/emperor.webp)
+![Albany Emperor](./public/vehicles/vehicles/emperor.webp)
 :::
