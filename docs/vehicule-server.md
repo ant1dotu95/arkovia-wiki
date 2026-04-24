@@ -2,13 +2,18 @@
 
 Lista și detaliile vehiculelor disponibile pe server.
 
-## Introducere
-Acesta este un text placeholder pentru pagina **Vehicule Server**. Aici poți adăuga informații detaliate despre acest subiect.
+# Vehicule Server
 
-## Detalii
-- Punctul 1: Informație relevantă.
-- Punctul 2: Altă informație utilă.
+## Street Cars / Masini de strada
 
-::: info
-Această pagină este în curs de actualizare. Dacă observi greșeli, folosește butonul de editare de mai jos.
+### Pfister Neon
+
+::: details Preview
+![Pfister Neon](/vehicles/neon.webp)
+:::
+
+### Albany Emperor
+
+::: details Preview
+![Albany Emperor](/vehicles/emperor.webp)
 :::
