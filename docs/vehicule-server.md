@@ -2,10 +2,7 @@
 
 Lista și detaliile vehiculelor disponibile pe server.
 
-# Vehicule Server
-
-## Street Cars / Masini de strada
-
+## Vanilla
 ### Pfister Neon
 
 ::: details Preview
