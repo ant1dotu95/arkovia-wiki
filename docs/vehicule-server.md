@@ -1,4 +1,4 @@
-#<span style="color: #00A3FF;">Vehicule Server</span> 
+# <span style="color: #00A3FF;">Vehicule Server</span>
 
 Lista și detaliile vehiculelor disponibile pe server.
 
@@ -12,7 +12,7 @@ Lista și detaliile vehiculelor disponibile pe server.
 </div>
 :::
 
-### Albany Emperor
+### <span style="color: #00A3FF;">Albany Emperor</span>
 
 ::: details Preview
 <div style="height: 260px; display: flex; align-items: center; justify-content: center; overflow: hidden;">
