@@ -1,6 +1,8 @@
 export default {
   title: "Arkovia Wiki",
   description: "Wiki oficial Arkovia",
+  base: '/arkovia-wiki/',
+
   themeConfig: {
     logo: '/logo.png',
     nav: [
@@ -109,7 +111,7 @@ export default {
       provider: 'local'
     },
     editLink: {
-      pattern: 'https://github.com/USER/REPO/edit/main/docs/:path',
+      pattern: 'https://github.com/ant1dotu95/arkovia-wiki/edit/main/docs/:path',
       text: 'Editează această pagină pe GitHub'
     },
     lastUpdated: {
