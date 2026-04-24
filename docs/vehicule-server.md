@@ -21,9 +21,9 @@ Lista și detaliile vehiculelor disponibile pe server în funcție de categorie,
     
   <b style="color:#00A3FF;">Combustibil:</b> Electric  
   <br>
-  <b style="color:red;">Premium Necesar</b>  
-  <br>
   <b style="color:#00A3FF;">Tip:</b> Sport / Electric  
+  <br>
+  <b style="color:red;">Premium Necesar</b>  
 
   </div>
 
@@ -46,8 +46,6 @@ Lista și detaliile vehiculelor disponibile pe server în funcție de categorie,
   <div style="margin-top:10px; color:#ccc; font-size:14px;">
     
   <b style="color:#00A3FF;">Combustibil:</b> Benzină  
-  <br>
-  <b style="color:red;">Premium Necesar</b>   
   <br>
   <b style="color:#00A3FF;">Tip:</b> Normal  
 
