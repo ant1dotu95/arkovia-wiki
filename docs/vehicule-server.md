@@ -7,11 +7,15 @@ Lista și detaliile vehiculelor disponibile pe server.
 ### Pfister Neon
 
 ::: details Preview
-<img src="./public/vehicles/neon.webp" alt="Neon" style="max-width: 500px; width: 100%; border-radius: 8px;" />
+<div style="height: 260px; display: flex; align-items: center; justify-content: center; overflow: hidden;">
+  <img src="./public/vehicles/neon.webp" alt="Neon" style="max-width: 100%; max-height: 240px; object-fit: contain;" />
+</div>
 :::
 
 ### Albany Emperor
 
 ::: details Preview
-<img src="./public/vehicles/emperor.webp" alt="Emperor" style="max-width: 500px; width: 100%; border-radius: 8px;" />
+<div style="height: 260px; display: flex; align-items: center; justify-content: center; overflow: hidden;">
+  <img src="./public/vehicles/emperor.webp" alt="Emperor" style="max-width: 100%; max-height: 240px; object-fit: contain;" />
+</div>
 :::
