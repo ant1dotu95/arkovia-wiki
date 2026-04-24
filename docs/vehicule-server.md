@@ -4,7 +4,7 @@ Lista și detaliile vehiculelor disponibile pe server.
 
 ## <span style="color: #00A3FF;">Vanilla</span>
 
-### <span style="color: #00A3FF;">Pfister Neon</span>
+### <span style="color: white;">Pfister Neon</span>
 
 ::: details Preview
 <div style="height: 260px; display: flex; align-items: center; justify-content: center; overflow: hidden;">
@@ -12,7 +12,7 @@ Lista și detaliile vehiculelor disponibile pe server.
 </div>
 :::
 
-### <span style="color: #00A3FF;">Albany Emperor</span>
+### <span style="color: white;">Albany Emperor</span>
 
 ::: details Preview
 <div style="height: 260px; display: flex; align-items: center; justify-content: center; overflow: hidden;">
