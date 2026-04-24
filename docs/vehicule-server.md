@@ -1,10 +1,10 @@
-# Vehicule Server
+#<span style="color: #00A3FF;">Vehicule Server</span> 
 
 Lista și detaliile vehiculelor disponibile pe server.
 
-## Vanilla
+## <span style="color: #00A3FF;">Vanilla</span>
 
-### Pfister Neon
+### <span style="color: #00A3FF;">Pfister Neon</span>
 
 ::: details Preview
 <div style="height: 260px; display: flex; align-items: center; justify-content: center; overflow: hidden;">
