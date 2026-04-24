@@ -6,11 +6,10 @@ Lista și detaliile vehiculelor disponibile pe server.
 ### Pfister Neon
 
 ::: details Preview
-![Pfister Neon](./public/vehicles/vehicles/neon.webp)
+<img src="/arkovia-wiki/vehicles/neon.webp" alt="Neon" style="max-width: 500px; width: 100%; border-radius: 8px;" />
 :::
 
 ### Albany Emperor
 
-::: details Preview
-![Albany Emperor](./public/vehicles/vehicles/emperor.webp)
+<img src="/arkovia-wiki/vehicles/emperor.webp" alt="Emperor" style="max-width: 500px; width: 100%; border-radius: 8px;" />
 :::
