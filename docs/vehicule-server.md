@@ -45,7 +45,9 @@ Lista și detaliile vehiculelor disponibile pe server în funcție de categorie,
     
   <b style="color:#00A3FF;">Combustibil:</b> Benzină  
   <br>
-  <b style="color:#00A3FF;">Tip:</b> Normal  
+  <b style="color:#00A3FF;">Tip:</b> Normal
+  <br>
+  <b style="color:red;">Cont Premium Necesar</b>
 
   </div>
 
